@@ -12,8 +12,7 @@ This Project is a security system that allows the heterogeneous face recognition
 
 SrNo | Name | Year | Department| Section | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Samiksha[DATA COLLECTION.docx](https://github.com/Robotech-Hackathon-2021/Team-4-Crazy-Engineers/files/7534330/DATA.COLLECTION.docx)
- | 2nd |  Information Technology | C | 2003013092@ipec.org.in
+1 | Samiksha | 2nd |  Information Technology | C | 2003013092@ipec.org.in
 2 | Shikha Khushwaha | 2nd | Information Technology | C | 2003013098@ipec.org.in
 3 | Ayushi Chopra | 2nd | CSE(DS) | F | 2003012012@ipec.org.in
 4 | Aditya Nath Tiwari | 2nd | Information Technology | A | 2003013140@ipec.org.in
