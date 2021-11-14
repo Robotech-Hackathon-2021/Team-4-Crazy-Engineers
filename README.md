@@ -6,7 +6,7 @@ Team ID : **#hack custom**
 Walking around the college building one day, I realised what if any unwanted stranger entered the premises and tried to harm the students . So we decided to boost the security system by making a heterogeneous face recognition system that would detect the face and image of each person entering the premises
 
 ### Introduction 
-This aProject is security system that allows the heterogeneous face recognition of the faculty staff and students of the organisation and captures the images and creates a database and hence validates the entry else would respond reversibly
+This Project is a security system that allows the heterogeneous face recognition of the faculty staff and students of the organisation and captures the images and creates a database and hence validates the entry else would respond reversibly
 
 #### Team Member
 
