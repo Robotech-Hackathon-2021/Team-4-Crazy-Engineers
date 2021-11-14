@@ -1,21 +1,21 @@
-# Team Name : name goes here
-Clone this repo and use this to upload your project  <- Remove this line before submission -> <br>
-Team ID : **#hack__**    <!--- Replace __ with problem statement number -->
+# Team Name : Crazy Engineers
+<br>
+Team ID : **#hack custom**    
 
 ## Problem statement
-Replace this with your selected problem statement 
+Walking around the college building one day, I realised what if any unwanted stranger entered the premises and tried to harm the students . So we decided to boost the security system by making a heterogeneous face recognition system that would detect the face and image of each person entering the premises
 
 ### Introduction 
-<!--- Basically abstract of your project -->
-Introdution goes here
+This aProject is security system that allows the heterogeneous face recognition of the faculty staff and students of the organisation and captures the images and creates a database and hence validates the entry else would respond reversibly
 
 #### Team Member
 
 SrNo | Name | Year | Department| Section | Email id
 :--|:--|:--|:--|:--|:--|
-1 | NAME GOES HERE | 2nd |  Information Technology | A | example@internet.com
-2 | NAME GOES HERE | 3rd | Computer Science | B | example@internet.com
-3 | NAME GOES HERE | 1st |  Mechanical | A | example@internet.com
-4 | NAME GOES HERE| 4th |  Civil | E | example@internet.com
+1 | Samiksha[DATA COLLECTION.docx](https://github.com/Robotech-Hackathon-2021/Team-4-Crazy-Engineers/files/7534330/DATA.COLLECTION.docx)
+ | 2nd |  Information Technology | C | 2003013092@ipec.org.in
+2 | Shikha Khushwaha | 2nd | Information Technology | C | 2003013098@ipec.org.in
+3 | Ayushi Chopra | 2nd | CSE(DS) | F | 2003012012@ipec.org.in
+4 | Aditya Nath Tiwari | 2nd | Information Technology | A | 2003013140@ipec.org.in
 
 <br>
